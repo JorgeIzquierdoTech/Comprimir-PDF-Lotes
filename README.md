@@ -7,8 +7,8 @@ Abre un editor de texto como Bloc de notas.
 Copia y pega el código.
 
 Paso 4: Personalizar el script
-input_folder: Cambia C:\ruta\a\pdfs\originales por la carpeta donde están los PDFs a comprimir.
-output_folder: Cambia C:\ruta\a\pdfs\comprimidos por la carpeta donde se guardarán los PDFs comprimidos.
+input_folder: Cambia C:\COMPRIMIR_PDF\ORIGINAL por la carpeta donde están los PDFs a comprimir.
+output_folder: Cambia C:\COMPRIMIR_PDF\PDF_COMPRIMIDO por la carpeta donde se guardarán los PDFs comprimidos.
 -dPDFSETTINGS=/ebook: Puedes ajustar la calidad de compresión:
 /screen: Baja calidad (para visualización en pantalla).
 /ebook: Calidad moderada.
